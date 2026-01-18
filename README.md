@@ -1,3 +1,4 @@
 в корне:
-npm install
+npm install 
+и потом
 npm run dev
